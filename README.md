@@ -6,10 +6,8 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Integrantes do grupo
 
-- Nome do integrante 1
+- Beatriz Carvalho
 - Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
 
 ## Estrutura do projeto
 
@@ -22,43 +20,49 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Descrição do jogo
 
-Descreva brevemente a ideia principal do jogo.
+O Real or AI? é um jogo digital educativo de investigação que simula situações de identificação de conteúdos produzidos por inteligência artificial ou por seres humanos.
 
-Exemplo:
+O jogador assume o papel de um investigador digital e recebe diferentes textos e conteúdos para analisar, devendo identificar sua possível origem. A cada rodada, é apresentada uma situação e o jogador precisa escolher entre as opções "Humano" ou "Inteligência Artificial".
 
-> O jogo consiste em controlar um personagem que deve coletar moedas e evitar obstáculos. O jogador ganha pontos ao coletar itens e perde vidas ao colidir com obstáculos. A partida termina quando o tempo acaba ou quando o jogador perde todas as vidas.
+Após cada resposta, o jogo apresenta o resultado e uma explicação sobre o conteúdo analisado, incentivando o pensamento crítico sobre a utilização da IA e a confiabilidade das ferramentas de detecção.
+
+O jogo também aborda os limites da identificação automatizada, demonstrando que ferramentas de detecção podem apresentar erros e que nem sempre é possível determinar a origem de um conteúdo com certeza.
 
 ## Objetivo do jogador
 
-Explique o que o jogador precisa fazer para vencer ou avançar no jogo.
+O objetivo é investigar os conteúdos apresentados ao longo das rodadas, identificar corretamente sua origem e acumular pontos antes que o tempo termine ou todas as vidas sejam perdidas.
 
-Exemplo:
-
-> O objetivo é coletar a maior quantidade possível de itens antes que o tempo acabe, evitando colisões com os obstáculos.
+Ao avançar, o jogador terá contato com diferentes exemplos e situações relacionadas ao uso da inteligência artificial no cotidiano, desenvolvendo uma postura mais crítica e consciente diante dos conteúdos digitais.
 
 ## Regras do jogo
 
-Liste as principais regras do jogo.
+O jogador inicia a partida com uma quantidade determinada de vidas e um cronômetro.
 
-Exemplo:
+A cada rodada, um conteúdo é apresentado na tela para análise.
 
-- O jogador se movimenta usando as setas do teclado.
-- Cada item coletado aumenta a pontuação.
-- Colidir com um obstáculo reduz a quantidade de vidas.
-- A partida termina quando o jogador perde todas as vidas ou quando o tempo acaba.
+O jogador deve escolher entre as opções "Humano" ou "Inteligência Artificial".
+
+Cada resposta correta aumenta a pontuação.
+
+Cada resposta incorreta reduz a quantidade de vidas.
+
+Após cada resposta, o jogo apresenta um feedback com a explicação correspondente.
+
+Os desafios são selecionados a partir de um banco de conteúdos previamente cadastrado.
+
+A partida termina quando o jogador perde todas as vidas, o tempo acaba ou todas as rodadas são concluídas.
+
+A vitória acontece quando o jogador consegue completar todos os desafios mantendo pelo menos uma vida.
+
+Ao final da partida, é exibido um resumo com a pontuação e o desempenho do jogador.
 
 ## Controles
 
-Informe as teclas ou comandos utilizados no jogo.
+Mouse: selecionar as respostas e interagir com os botões da interface.
 
-Exemplo:
+ENTER: confirmar ações e avançar entre as telas.
 
-- Seta para cima: mover para cima
-- Seta para baixo: mover para baixo
-- Seta para esquerda: mover para esquerda
-- Seta para direita: mover para direita
-- Espaço: realizar ação
-- ESC: sair do jogo
+ESC: retornar ao menu ou sair do jogo.
 
 ## Como executar o projeto
 
