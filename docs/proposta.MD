@@ -88,7 +88,7 @@ Descreva brevemente os elementos mais importantes, sem precisar detalhar a imple
 - **Personagem ou elemento principal:** O investigador digital, representado pela interface de investigação e pelos elementos visuais que simulam a análise de conteúdos.
 - **Obstáculos ou desafios:** Textos de diferentes características e níveis de dificuldade, cuja origem deverá ser identificada pelo jogador.
 - **Itens ou objetos de interação (se houver):** Botões de seleção das respostas e elementos de interação com os desafios.
-- **Pontuação, vidas, tempo ou progresso:** Sistema de pontos por acertos, três vidas iniciais, cronômetro para limitar a partida e indicador de progresso das rodadas concluídas.
+- **Pontuação, vidas, tempo ou progresso:** Sistema de pontos por acertos, três vidas iniciais e cronômetro para limitar a partida.
 
 ## 11. Controles previstos
 
