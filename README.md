@@ -1,4 +1,4 @@
-# Nome do Jogo
+# Real or Ai?
 
 Projeto final da disciplina de Introdução a Algoritmos/Programação, desenvolvido com Python e Pygame.
 
@@ -7,7 +7,7 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 ## Integrantes do grupo
 
 - Beatriz Carvalho
-- Nome do integrante 2
+- Rafael Duarte
 
 ## Estrutura do projeto
 
